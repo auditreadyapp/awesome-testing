@@ -157,6 +157,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TabQA](https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp) - Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.
 
 ### Accessibility & Usability Testing
+[AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Accessibility scanner that runs 12 deterministic checks on a web page's server-rendered HTML, with each finding naming its WCAG 2.2 criterion and a copy-paste fix. Free instant scan; the client-ready report is a one-off $29 per site.
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RateMyApp Testing Brief Builder](https://ratemyapp.io/tools/app-testing-brief-builder/) - Free, no-account tool for writing mobile usability-testing tasks, expected outcomes, and feedback instructions.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
